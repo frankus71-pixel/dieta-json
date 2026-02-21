@@ -2,424 +2,259 @@
   "month": "OCTUBRE 2025",
   "week": {
     "1": {
-      "kcal_total": 1700,
+      "kcal_total": 1613,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Kiwi",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Kiwi", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Queso Tierno", "grams": 70},
+            {"name": "Pavo. Pechuga", "grams": 40},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 600,
           "items": [
-            {
-              "name": "Macarrones con carne",
-              "grams": 574,
-              "recipe_id": "macarrones_con_carne"
-            }
+            {"name": "Pasta Griega con Especias (H)", "grams": 452},
+            {"name": "Manzana Roja", "grams": 200}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Plátano",
-              "grams": 100
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Ensalada de manzana y queso",
-              "grams": 320,
-              "recipe_id": "ensalada_manzana_queso"
-            }
+            {"name": "Ensalada César Con Pollo Y Huevo", "grams": 315},
+            {"name": "Pan Integral", "grams": 30},
+            {"name": "Papaya", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "2": {
-      "kcal_total": 1750,
+      "kcal_total": 1626,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Melocotón",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Melocotón", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Jamón Serrano", "grams": 40},
+            {"name": "Tomate Crudo", "grams": 70},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Manzana roja",
-              "grams": 150
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 650,
           "items": [
-            {
-              "name": "Merluza a la riojana",
-              "grams": 363,
-              "recipe_id": "merluza_riojana"
-            }
+            {"name": "Judías Verdes Con Jamón Cocido", "grams": 210},
+            {"name": "Lenguado Encebollado", "grams": 310},
+            {"name": "Fresa Y Fresón", "grams": 200}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Bocadillo de atún",
-              "grams": 200,
-              "recipe_id": "bocadillo_atun"
-            }
+            {"name": "Bocadillo De Lomo H", "grams": 245},
+            {"name": "Pera", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "3": {
-      "kcal_total": 1700,
+      "kcal_total": 1570,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Pera",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Kiwi", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Pavo. Pechuga", "grams": 40},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 600,
           "items": [
-            {
-              "name": "Arroz con pollo",
-              "grams": 350,
-              "recipe_id": "arroz_pollo"
-            }
+            {"name": "Pollo Al Curry", "grams": 365},
+            {"name": "Patata", "grams": 200},
+            {"name": "Albaricoque", "grams": 200}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Plátano",
-              "grams": 100
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Ensalada campera",
-              "grams": 365,
-              "recipe_id": "ensalada_campera"
-            }
+            {"name": "Huevo Con Pisto Manchego", "grams": 247},
+            {"name": "Pan Integral", "grams": 30},
+            {"name": "Papaya", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "4": {
-      "kcal_total": 1700,
+      "kcal_total": 1776,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Naranja",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Manzana Roja", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Queso Tierno", "grams": 70},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Manzana roja",
-              "grams": 150
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 600,
           "items": [
-            {
-              "name": "Pollo al ajillo",
-              "grams": 204,
-              "recipe_id": "pollo_ajillo"
-            }
+            {"name": "Salteado Danpel", "grams": 365},
+            {"name": "Solomillo De Ternera", "grams": 150},
+            {"name": "Aceite De Oliva", "grams": 10},
+            {"name": "Manzana Roja", "grams": 150}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Revuelto de verduras",
-              "grams": 250,
-              "recipe_id": "revuelto_verduras"
-            }
+            {"name": "Pizza Con Atún", "grams": 285},
+            {"name": "Mandarina", "grams": 150},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "5": {
-      "kcal_total": 1650,
+      "kcal_total": 1549,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Kiwi",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Naranja", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Pavo. Pechuga", "grams": 40},
+            {"name": "Queso Tierno", "grams": 70},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 600,
           "items": [
-            {
-              "name": "Arroz meloso con langostinos",
-              "grams": 395,
-              "recipe_id": "arroz_meloso_langostinos"
-            }
+            {"name": "Arroz Meloso Con Langostino Y Champiñones", "grams": 395},
+            {"name": "Sandía", "grams": 200}
           ]
         },
         "merienda": {
-          "kcal": 150,
-          "items": [
-            {
-              "name": "Fresas",
-              "grams": 150
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Ensalada tres tiempos",
-              "grams": 305,
-              "recipe_id": "ensalada_tres_tiempos"
-            }
+            {"name": "Ensalada Tres Tiempos", "grams": 305},
+            {"name": "Huevo De Gallina", "grams": 50},
+            {"name": "Pan Integral", "grams": 30},
+            {"name": "Manzana Roja", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "6": {
-      "kcal_total": 1750,
+      "kcal_total": 1653,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Melocotón",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Kiwi", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Aceite De Oliva", "grams": 10},
+            {"name": "Tomate Crudo", "grams": 70},
+            {"name": "Nueces Sin Piel", "grams": 10}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Manzana roja",
-              "grams": 150
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 650,
           "items": [
-            {
-              "name": "Salmón a la plancha",
-              "grams": 150,
-              "recipe_id": "salmon_plancha"
-            }
+            {"name": "Calabaza Con Tomate", "grams": 412},
+            {"name": "Salmón", "grams": 150},
+            {"name": "Aceite De Oliva", "grams": 10},
+            {"name": "Fresa Y Fresón", "grams": 150}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Pizza vegetal",
-              "grams": 250,
-              "recipe_id": "pizza_vegetal"
-            }
+            {"name": "Bocadillo De Atún H", "grams": 205},
+            {"name": "Sandía", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     },
     "7": {
-      "kcal_total": 1700,
+      "kcal_total": 1582,
       "meals": {
         "desayuno": {
-          "kcal": 400,
           "items": [
-            {
-              "name": "Leche desnatada",
-              "grams": 250
-            },
-            {
-              "name": "Pan integral",
-              "grams": 60
-            },
-            {
-              "name": "Pera",
-              "grams": 150
-            }
+            {"name": "Leche Desnatada Uht", "grams": 250},
+            {"name": "Café (infusión)", "grams": 25},
+            {"name": "Pera", "grams": 150},
+            {"name": "Pan Integral", "grams": 80},
+            {"name": "Pavo. Pechuga", "grams": 40},
+            {"name": "Nueces Sin Piel", "grams": 15}
           ]
         },
         "media_manana": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Yogur desnatado",
-              "grams": 125
-            }
-          ]
+          "items": []
         },
         "comida": {
-          "kcal": 600,
           "items": [
-            {
-              "name": "Pollo asado",
-              "grams": 200,
-              "recipe_id": "pollo_asado"
-            }
+            {"name": "Salteado De Calabacín Y Champiñones", "grams": 313},
+            {"name": "Pollo Al Limón", "grams": 221},
+            {"name": "Arroz Blanco Cocinado", "grams": 100},
+            {"name": "Sandía", "grams": 200}
           ]
         },
         "merienda": {
-          "kcal": 200,
-          "items": [
-            {
-              "name": "Plátano",
-              "grams": 100
-            }
-          ]
+          "items": []
         },
         "cena": {
-          "kcal": 300,
           "items": [
-            {
-              "name": "Bocadillo de pavo",
-              "grams": 200,
-              "recipe_id": "bocadillo_pavo"
-            }
+            {"name": "Revuelto De Verduras Con Gambas", "grams": 360},
+            {"name": "Pan Integral", "grams": 30},
+            {"name": "Sandía", "grams": 200},
+            {"name": "Yogur Desnatado", "grams": 125}
           ]
         }
       }
     }
   }
-}  
+}
